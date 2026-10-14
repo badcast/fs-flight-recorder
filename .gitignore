@@ -1,0 +1,14 @@
+# Binaries
+fs-flight-recorder
+*.o
+*.a
+*.so
+
+# Dumps & logs
+*.log
+*.dump
+/tmp/flight_recorder_dump_*
+
+# Build directories
+build/
+bin/
